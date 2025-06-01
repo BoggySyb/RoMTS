@@ -23,7 +23,6 @@ from models.RNNImputer.rnnimputers import BiRNNImputer as RNNImputer
 执行命令
 models: AGCRN BitGraph DSFormer RNNImputer
 datasets: ETTh1 Weather Elec
-`python online_test.py --dataset ETTh1 --model_name BitGraph --cudaidx 4 --train_tag 0.4 --task_mode online --task ensemble`
 `python online_test.py --dataset ETTh1 --model_name BitGraph --cudaidx 3 --train_tag 0.4 --task_mode online --use_agent True --online_tag offline11`
 `python online_test.py --dataset Elec --model_name AGCRN --cudaidx 2 --train_tag sft10 --task_mode online_train --use_agent True --online_tag offline11`
 """
