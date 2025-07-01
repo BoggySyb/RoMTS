@@ -15,7 +15,9 @@ pip install -r requirements.txt
 
 ##### 2.Downloads dataset.
 
-Downloads ETTh1, Weather, Electricity from https://github.com/ChengqingYu/MTS_dataset.
+Downloads ETTh1, Weather, Electricity datasets.
+Baidu Yun: Links: https://pan.baidu.com/s/1Cu1P9twOLHOkIVcKf1BT2Q (Passwords: 3bt1)
+Google Drive: Links:https://drive.google.com/file/d/12DvhbUNSOPJnVzSKSnMB0oafvGt63ED2/view?usp=drive_link
 
 Put them in "/RobustMTSF/data/".
 
