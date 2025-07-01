@@ -1,4 +1,4 @@
-# RobustMTSF: A Robust Learning Framework for Multivariate Time‑Series Forecasting under Online–Offline Data Skew
+# RoMTS: A Robust Framework for Multivariate Time-Series Forecasting under Data Skew in Real-Time Analytics
 
 Paper url: Coming soon...
 
@@ -9,7 +9,7 @@ Paper url: Coming soon...
 ##### 1.Install requirements.
 
 ```shell
-git clone https://github.com/BoggySyb/RobustMTSF.git
+git clone https://github.com/BoggySyb/RoMTS.git
 pip install -r requirements.txt
 ```
 
